@@ -70,6 +70,7 @@ module Staccato
       # Product
       product_action: 'pa',
       product_action_list: 'pal',
+      currency: 'cu',
 
       # Promotion
       promotion_action: 'promoa',
